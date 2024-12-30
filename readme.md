@@ -1,4 +1,4 @@
-## Heyyo everyone, welcome to my git guide.
+## Welcome to Git!
 
-- Adding line from 'dev-rdj'
+- This is coming from 'dev-webdevgary'
 - I'm adding this from 'feature-branch'
